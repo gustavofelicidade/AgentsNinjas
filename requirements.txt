@@ -1,3 +1,6 @@
 crewai
 langchain
 openai
+django==5.1.7
+djangorestframework
+django-cors-headers
